@@ -1,0 +1,22 @@
+4c87a8c (HEAD -> develop) HEAD@{0}: rebase (continue) (finish): returning to refs/heads/develop
+4c87a8c (HEAD -> develop) HEAD@{1}: commit: fix rebase conflict
+0a94b4f HEAD@{2}: commit: fix conflict
+b0c701b HEAD@{3}: commit: fix conflicts
+8a14ee9 HEAD@{4}: rebase (start): checkout master
+2630f20 (feature4) HEAD@{5}: merge feature4: Fast-forward
+2ddd471 (feature2, feature1) HEAD@{6}: checkout: moving from feature4 to develop
+2630f20 (feature4) HEAD@{7}: rebase (continue) (finish): returning to refs/heads/feature4
+2630f20 (feature4) HEAD@{8}: commit: resolve rebase conflicts
+da61b6a (feature3) HEAD@{9}: rebase (start): checkout feature3
+2ddd471 (feature2, feature1) HEAD@{10}: checkout: moving from feature3 to develop
+da61b6a (feature3) HEAD@{11}: checkout: moving from feature4 to feature3
+b634406 HEAD@{12}: commit: add new style and p to index.html
+2ddd471 (feature2, feature1) HEAD@{13}: checkout: moving from develop to feature4
+2ddd471 (feature2, feature1) HEAD@{14}: checkout: moving from feature3 to develop
+da61b6a (feature3) HEAD@{15}: commit: add h1 to index.html
+2ddd471 (feature2, feature1) HEAD@{16}: checkout: moving from develop to feature3
+2ddd471 (feature2, feature1) HEAD@{17}: checkout: moving from feature2 to develop
+2ddd471 (feature2, feature1) HEAD@{18}: merge develop: Fast-forward
+490efe0 HEAD@{19}: checkout: moving from feature1 to feature2
+2ddd471 (feature2, feature1) HEAD@{20}: merge develop: Fast-forward
+8a14ee9 HEAD@{21}: checkout: moving from develop to feature1
