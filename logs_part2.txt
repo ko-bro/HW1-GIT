@@ -1,0 +1,24 @@
+6d5cb63 (HEAD -> master, origin/master, feature5, develop) HEAD@{0}: merge develop: Fast-forward
+8e42fb5 HEAD@{1}: checkout: moving from develop to master
+6d5cb63 (HEAD -> master, origin/master, feature5, develop) HEAD@{2}: merge feature5: Fast-forward
+63bce61 HEAD@{3}: checkout: moving from feature5 to develop
+6d5cb63 (HEAD -> master, origin/master, feature5, develop) HEAD@{4}: rebase (finish): returning to refs/heads/feature5
+6d5cb63 (HEAD -> master, origin/master, feature5, develop) HEAD@{5}: rebase (squash): new line
+f10e6ee HEAD@{6}: rebase (squash): # This is a combination of 2 commits.
+179d5f7 HEAD@{7}: rebase (start): checkout HEAD~3
+8a6f2de HEAD@{8}: commit: new commit
+3f3ac22 HEAD@{9}: commit: new adding
+179d5f7 HEAD@{10}: commit: new line
+63bce61 HEAD@{11}: checkout: moving from develop to feature5
+63bce61 HEAD@{12}: checkout: moving from develop to develop
+63bce61 HEAD@{13}: checkout: moving from master to develop
+8e42fb5 HEAD@{14}: checkout: moving from develop to master
+63bce61 HEAD@{15}: commit: add log1 file
+4c87a8c HEAD@{16}: rebase (continue) (finish): returning to refs/heads/develop
+4c87a8c HEAD@{17}: commit: fix rebase conflict
+0a94b4f HEAD@{18}: commit: fix conflict
+b0c701b HEAD@{19}: commit: fix conflicts
+8a14ee9 HEAD@{20}: rebase (start): checkout master
+2630f20 (feature4) HEAD@{21}: merge feature4: Fast-forward
+2ddd471 (feature2, feature1) HEAD@{22}: checkout: moving from feature4 to develop
+2630f20 (feature4) HEAD@{23}: rebase (continue) (finish): returning to refs/head:
